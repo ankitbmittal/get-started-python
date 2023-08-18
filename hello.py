@@ -5,7 +5,7 @@ import os
 import json
 
 app = Flask(__name__, static_url_path='')
-
+# hi my name is ankit
 db_name = 'mydb'
 client = None
 db = None
